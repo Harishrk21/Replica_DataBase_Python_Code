@@ -1,0 +1,45 @@
+2024-11-20 14:34:15,673 - INFO - Deleted 2 rows from appointments.
+2024-11-20 14:34:15,752 - INFO - Deleted 2 rows from poc_available_slots.
+2024-11-20 14:34:15,755 - INFO - Daily sync completed successfully.
+2024-11-20 14:38:01,767 - INFO - Daily sync completed successfully.
+2024-11-20 17:38:01,157 - INFO - Deleted 1 rows from appointments.
+2024-11-20 17:38:01,219 - INFO - Deleted 1 rows from poc_available_slots.
+2024-11-20 17:38:01,221 - INFO - Daily sync completed successfully.
+2024-11-20 18:20:05,617 - INFO - Deleted 1 rows from appointments.
+2024-11-20 18:20:05,651 - INFO - Daily sync completed successfully.
+2024-11-20 18:20:05,702 - INFO - Synced 2 rows from Client (offset 0).
+2024-11-20 18:20:05,717 - INFO - Client table full sync completed successfully.
+2024-11-20 18:20:05,761 - INFO - Synced 3 rows from POC (offset 0).
+2024-11-20 18:20:05,773 - INFO - POC table full sync completed successfully.
+2024-11-20 18:20:05,842 - INFO - Synced 29 rows from Menu (offset 0).
+2024-11-20 18:20:05,860 - INFO - Menu table full sync completed successfully.
+2024-11-20 18:20:05,920 - INFO - Synced 30 rows from POC_Schedules (offset 0).
+2024-11-20 18:20:05,933 - INFO - POC_Schedules table full sync completed successfully.
+2024-11-20 18:20:05,986 - INFO - Synced 28 rows from Users (offset 0).
+2024-11-20 18:20:06,001 - INFO - Users table full sync completed successfully.
+2024-11-20 18:20:06,049 - INFO - Synced 7 rows from List (offset 0).
+2024-11-20 18:20:06,067 - INFO - List table full sync completed successfully.
+2024-11-20 18:20:06,068 - INFO - Monthly data sync completed successfully.
+2024-11-20 19:57:50,461 - INFO - Fetched 0 rows from appointments (offset 0).
+2024-11-20 19:57:50,495 - INFO - Total rows deleted from appointments: 0.
+2024-11-20 19:57:50,510 - INFO - Fetched 0 rows from poc_available_slots (offset 0).
+2024-11-20 19:57:50,538 - INFO - Total rows deleted from poc_available_slots: 0.
+2024-11-20 19:57:50,580 - INFO - Inserted 0 new rows and encountered 2 duplicate entries in Client.
+2024-11-20 19:57:50,581 - INFO - Synced 2 rows from Client (offset 0).
+2024-11-20 19:57:50,598 - INFO - Client table full sync completed successfully.
+2024-11-20 19:57:50,633 - INFO - Inserted 0 new rows and encountered 3 duplicate entries in POC.
+2024-11-20 19:57:50,634 - INFO - Synced 3 rows from POC (offset 0).
+2024-11-20 19:57:50,650 - INFO - POC table full sync completed successfully.
+2024-11-20 19:57:50,699 - INFO - Inserted 0 new rows and encountered 29 duplicate entries in Menu.
+2024-11-20 19:57:50,700 - INFO - Synced 29 rows from Menu (offset 0).
+2024-11-20 19:57:50,716 - INFO - Menu table full sync completed successfully.
+2024-11-20 19:57:50,767 - INFO - Inserted 0 new rows and encountered 30 duplicate entries in POC_Schedules.
+2024-11-20 19:57:50,769 - INFO - Synced 30 rows from POC_Schedules (offset 0).
+2024-11-20 19:57:50,783 - INFO - POC_Schedules table full sync completed successfully.
+2024-11-20 19:57:50,839 - INFO - Inserted 0 new rows and encountered 28 duplicate entries in Users.
+2024-11-20 19:57:50,839 - INFO - Synced 28 rows from Users (offset 0).
+2024-11-20 19:57:50,853 - INFO - Users table full sync completed successfully.
+2024-11-20 19:57:50,881 - INFO - Inserted 0 new rows and encountered 7 duplicate entries in List.
+2024-11-20 19:57:50,882 - INFO - Synced 7 rows from List (offset 0).
+2024-11-20 19:57:50,899 - INFO - List table full sync completed successfully.
+2024-11-20 19:57:50,900 - INFO - Daily data sync completed successfully.
